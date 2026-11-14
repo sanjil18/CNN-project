@@ -1,0 +1,6 @@
+*.pth
+*.zip
+kaggle.json
+intel_data/
+__pycache__/
+.ipynb_checkpoints/
